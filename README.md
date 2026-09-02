@@ -24,3 +24,10 @@ Jeg kan godt lide at følge digitale projekter gennem hele processen: fra resear
 ## Praktik
 
 Jeg søger en **10-ugers praktikplads fra 11. januar til 19. marts 2027**, hvor jeg kan bidrage og udvikle mig inden for frontend, UX/UI og multimediedesign.
+
+## Kontakt
+
+**Martin Peter Skouner Ramsgaard**
+
+- Telefon: [+45 42 23 47 60](tel:+4542234760)
+- E-mail: [mar2525ram@gmail.com](mailto:mar2525ram@gmail.com)
