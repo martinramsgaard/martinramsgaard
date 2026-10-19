@@ -1,8 +1,10 @@
 # Hej, jeg er Martin 👋
 
-Jeg læser multimediedesign på **EK – Erhvervsakademi København** og arbejder i krydsfeltet mellem **frontend, UX/UI og visuelt design**.
+Jeg læser multimediedesign på **3. semester på EK – Erhvervsakademi København** og arbejder i krydsfeltet mellem **frontend, UX/UI og visuelt design**.
 
 Jeg kan godt lide at følge digitale projekter gennem hele processen: fra research, brugerbehov og prototyper i Figma til responsive brugerflader bygget med kode.
+
+**[Se mit portfolio →](https://martin-ramsgaard.netlify.app)**
 
 ## Fagligt fokus
 
@@ -10,7 +12,8 @@ Jeg kan godt lide at følge digitale projekter gennem hele processen: fra resear
 - UX/UI, wireframes og interaktive prototyper i Figma
 - Mobile-first og responsivt webdesign
 - API-integration og dynamisk indhold
-- Visuel identitet og digital kommunikation
+- Visuel identitet og grafisk indholdsproduktion
+- Canva og Adobe Creative Cloud, herunder Illustrator, InDesign, Photoshop og Premiere Pro
 - Git, GitHub, Netlify og Supabase
 
 ## Udvalgte projekter
